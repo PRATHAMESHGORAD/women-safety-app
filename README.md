@@ -483,7 +483,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👨‍💻 Developer
 
 **Prathamesh Gorad**
-- 📧 Email: prathameshgorad@example.com
+- 📧 Email: prathameshgorad96@gmail.com
 - 💼 LinkedIn: [Prathamesh Gorad](https://linkedin.com/in/prathameshgorad)
 - 🐙 GitHub: [@PRATHAMESHGORAD](https://github.com/PRATHAMESHGORAD)
 - 📱 College Project: Women Safety App
