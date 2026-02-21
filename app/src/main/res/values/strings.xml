@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Women safety app</string>
+    <!-- Existing strings -->
+
+    <string name="hint_search_area">Search area (e.g., Mumbai, Delhi)</string>
+    <string name="default_crime_result">🔎 Enter an area to see crime percentage</string>
+
+    <string name="sos_service_description">SOS Accessibility Service for detecting volume key presses</string>
+
+
+</resources>

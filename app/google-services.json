@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083097982142",
+    "project_id": "prathamesh-womensafetyapp",
+    "storage_bucket": "prathamesh-womensafetyapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083097982142:android:9eef68fbd818b01afdaaef",
+        "android_client_info": {
+          "package_name": "com.prathamesh.womensafetyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFcpVjqsFHaa8HCCTvlC0y2tM2_GKn5XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
