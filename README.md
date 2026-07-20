@@ -561,7 +561,7 @@ This app is designed to **assist in emergency situations** but should NOT be con
 **Release Date:** December 2024  
 **Size:** ~15 MB
 
-### [📥 Download APK](https://github.com/PRATHAMESHGORAD/women-safety-app/releases)
+### [📥 Download APK](https://drive.google.com/file/d/1gBZsSqbD-kRQ3o-QQ7SgmJM0Gy9nY09_/view?usp=drive_link)
 
 ---
 
